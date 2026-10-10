@@ -3,3 +3,4 @@ data/
 .ipynb_checkpoints/
 __pycache__/
 .DS_Store
+notebooks/scratch_50k_sample.ipynb
