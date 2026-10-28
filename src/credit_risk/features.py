@@ -1,7 +1,7 @@
 import pandas as pd
 
 NEW_FEATURES = ["loan_to_income", "payment_to_income", "dti_with_loan", "revol_bal_to_income"]
-
+KEPT_FEATURES = ["payment_to_income", "dti_with_loan"] 
 
 def add_features(df):
     # ratio features from credit logic; nothing is fitted, so any loan can be scored
