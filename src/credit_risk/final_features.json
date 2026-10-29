@@ -1,0 +1,12 @@
+[
+ "grade",
+ "home_ownership",
+ "annual_inc",
+ "purpose",
+ "fico_range_low",
+ "inq_last_6mths",
+ "revol_util",
+ "payment_to_income",
+ "dti_with_loan",
+ "credit_history_years"
+]
